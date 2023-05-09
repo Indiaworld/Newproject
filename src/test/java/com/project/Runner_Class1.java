@@ -14,6 +14,8 @@ public class Runner_Class1 extends Base_Class1 {
 		//driver= new ChromeDriver();
 		url(driver, "https://www.facebook.com/");
 		window_maximize(driver);
+		System.out.println("Test1");
+		System.out.println("Test2");
 
 	}
 
